@@ -20,7 +20,7 @@ esse investimento. Com isso, é possível identificar quais linhas são mais uti
 - Um arquivo out.csv no mesmo diretório do script.
 - Formato do arquivo CSV: linha,entrada1:saida1,entrada2:saida2,entrada3:saida3,...
 ## 3.3 Código Python
-[Clique aqui para visualizar](https://github.com/ruivocodespace/contador_passageiros/blob/master/main.py)
+[Clique aqui para visualizar](https://github.com/codebyaires/contador_passageiros/blob/main/main.py)
 ## 3.4 Instruções de Execução
 - Certifique-se de que o arquivo out.csv esteja no mesmo diretório do script Python.
 - Execute o script usando: python nome_do_script.py
